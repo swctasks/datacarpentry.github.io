@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 title: "Change is good!"
 meta_title: "Feeling Responsive Theme Changelog"
 subheadline: "Feeling Responsive Theme Changelog"
